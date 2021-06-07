@@ -1,0 +1,1 @@
+https://medium.com/@FloSloot/your-own-local-copy-of-aws-w-node-js-6d98a10533a8
